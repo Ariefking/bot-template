@@ -1,0 +1,2 @@
+# bot-template
+Bot line
